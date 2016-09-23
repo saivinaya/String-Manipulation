@@ -17,6 +17,7 @@ public class A2_Task1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("P[rogram start");
         stringManipulation application = new stringManipulation();
         String enteredString = application.getString();
         application.printString(enteredString);
